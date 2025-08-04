@@ -54,7 +54,7 @@ Buat file `.env` di folder `notification-service`:
 ```
 EMAIL_HOST=sandbox.smtp.mailtrap.io
 EMAIL_PORT=2525
-EMAIL_USER=7a202ffb993bb1
+EMAIL_USER=your_username_here
 EMAIL_PASS=your_password_here
 EMAIL_FROM=no-reply@restaurant.com
 ```
